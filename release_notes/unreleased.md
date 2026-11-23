@@ -1,2 +1,2 @@
 **Unreleased**
-Upgrading to use Python 3.13
+* Upgrading to use Python 3.13
